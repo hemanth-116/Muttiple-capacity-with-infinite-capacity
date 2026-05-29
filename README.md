@@ -16,14 +16,6 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ![image](https://user-images.githubusercontent.com/103921593/203238265-176740b0-eae2-4772-90be-5449869ac9b0.png)
 
-
-
-
-## Experiment:
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9c300255-5baa-4f7c-a2f2-d15535454e63" />
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6a3926aa-3358-48d0-be51-529bb8723828" />
-
-
 ## Program
 ```py
 import math 
